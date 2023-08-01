@@ -18,7 +18,9 @@ spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
 ## How to run:
 
 1. Start the application in your IDE as Java application. 
-2. Go to any browser and enter localhost URL. For example: localhost:8080.
+2. Go to any browser and enter the next URL:
+
+### http://localhost:8082/swagger-ui/#/user-controller
 
 Note that you also can change the server port in the application.properties file: 
 ```
