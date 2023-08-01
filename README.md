@@ -1,8 +1,10 @@
-## Instructions:
+## Information:
 
-To run this Spring application you need to connect to it a MySQL (or another) database.
+This Spring Boot application is connected to the Cloud PostgreSQL database using Render Cloud Application Hosting.
 
-You must define the connection attributes in the application.properties file.
+Note, that you can connect to the application any other database.
+
+For this, you must define the connection attributes in the application.properties file.
 You can find it here - src/main/resources/application.properties.
 
 Here is an example:
