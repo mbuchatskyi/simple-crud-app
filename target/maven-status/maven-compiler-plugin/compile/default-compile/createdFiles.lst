@@ -1,0 +1,8 @@
+mbuchatskyi\Application.class
+mbuchatskyi\exception\GlobalExceptionHandler.class
+mbuchatskyi\service\UserService.class
+mbuchatskyi\config\SpringFoxConfig.class
+mbuchatskyi\controller\UserController.class
+mbuchatskyi\service\impl\UserServiceImpl.class
+mbuchatskyi\model\User.class
+mbuchatskyi\repository\UserRepository.class

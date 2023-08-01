@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 17.0.7
+Implementation-Title: crud-spring
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: mbuchatskyi
+Implementation-URL: https://spring.io/projects/spring-boot/crud-spring
+Created-By: Maven Integration for Eclipse
+
